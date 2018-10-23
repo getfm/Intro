@@ -1,0 +1,13 @@
+#content {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+#content .numbers-input {
+    text-align: center;
+}
+
+#content .results {
+    text-align: center;
+}
